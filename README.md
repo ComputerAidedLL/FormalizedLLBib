@@ -12,7 +12,7 @@ Bibliography of formalizations of Linear Logic in proof assistants.
 * [Auger](https://github.com/ComputerAidedLL/Auger_LinearLogic)
 * M. Sadrzadeh, [Modal linear logic in higher order logic: An experiment with Coq](https://eprints.soton.ac.uk/261814/1/tphols03.pdf) (TPHOL 2003)
 * [ppedrot/ll-coq](https://github.com/ppedrot/ll-coq)
-* [BosserCourtieuForestCavazza2011](https://github.com/ComputerAidedLL/BosserCourtieuForestCavazza_NarrativesCoq)
+* [Matafou/ill_narratives](https://github.com/Matafou/ill_narratives)
 * [meta-logic/coq-ll](https://github.com/meta-logic/coq-ll)
 * [olaure01/yalla](https://github.com/olaure01/yalla)
 
