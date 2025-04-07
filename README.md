@@ -8,7 +8,7 @@ Bibliography of formalizations of Linear Logic in proof assistants.
 
 * [PowerWebster1999](https://github.com/ComputerAidedLL/PowerWebster_ILL)
 * [acowley/LinearLogic](https://github.com/acowley/LinearLogic)
-* [k-qy/linear-logic](https://github.com/k-qy/linear-logic)
+* [kai-qu/linear-logic](https://github.com/kai-qu/linear-logic)
 * [Auger](https://github.com/ComputerAidedLL/Auger_LinearLogic)
 * M. Sadrzadeh, [Modal linear logic in higher order logic: An experiment with Coq](https://eprints.soton.ac.uk/261814/1/tphols03.pdf) (TPHOL 2003)
 * [ppedrot/ll-coq](https://github.com/ppedrot/ll-coq)
